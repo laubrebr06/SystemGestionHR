@@ -84,6 +84,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 4.	Créez une pull request.
    
 Licence
+
 Ce projet est sous licence MIT – consultez le fichier LICENSE pour plus de détails.
 
 
