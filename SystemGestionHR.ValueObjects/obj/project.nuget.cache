@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8077P2VTt6e8oBysdWsHJsaKv0a1WPsaQEZXtNBv/sdnnpZfNsqq3Dh09iBldqbv+Gh1wti10g1QJly4rXvhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laubr\\source\\repos\\SystemGestionHR\\SystemGestionHR.ValueObjects\\SystemGestionHR.ValueObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laubr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\laubr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\laubr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
